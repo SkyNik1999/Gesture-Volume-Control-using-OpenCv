@@ -3,6 +3,7 @@ First install latest version of python: https://www.python.org/downloads/
 
 Then after that install pyCharm: https://www.jetbrains.com/pycharm/download/#section=windows
 
+
 After installing pyCharm,
 Create a new project under the name of GESTURECONTROL.
 
@@ -22,6 +23,27 @@ After doing this create three python files by Right Clicking on the project name
 3) GestureVolumeControl
 
 Download the attached Python files, copy and paste the program in the above created files.
+If you don't want to install pyCharm then skip this step and follow the steps given below
+                                                                  
+                                                                  
+                                                                  OR
+                                       
+Download the complete file and keep all of them in a single folder.
 
-Enjoy and have fun
-Thankyou
+Open CMD/Terminal Window and first install all the packages given below:
+1) opencv-python: $pip install opencv-python
+2) mediapipe: $pip install mediapipe
+3) pycaw: $pip install pycaw
+
+After install all the packages RUN the file GestureVolumeControl.py
+               
+               $python GestureVolumeControl.py
+
+Congratulations you have successfully executed the project.
+
+Enjoy and have a Great Day!!!!!!!!!!!!!
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Thankyou!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
