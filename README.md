@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/59369441/116009572-1542a280-a638-11eb-9d94-2a2d38b856a5.PNG)
 ![GESTURE VOLUME CONTROL](https://user-images.githubusercontent.com/59369441/116009544-f512e380-a637-11eb-9f74-39301db95f2b.png)
 # Nikhil-Gupta
 First install latest version of python: https://www.python.org/downloads/
